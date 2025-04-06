@@ -1,0 +1,6 @@
+[submodule "source code/tmdt_be"]
+	path = source code/tmdt_be
+	url = https://github.com/hieugiax145/tmdt_be
+[submodule "source code/tmdt_fe"]
+	path = source code/tmdt_fe
+	url = https://github.com/hieugiax145/tmdt_fe
